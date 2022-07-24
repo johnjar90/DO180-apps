@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "restify": "8.1.1",
-    "sequelize": "5.22.5",
+    "sequelize": "6.21.2",
     "mysql": "2.14.0"
   }
 }
